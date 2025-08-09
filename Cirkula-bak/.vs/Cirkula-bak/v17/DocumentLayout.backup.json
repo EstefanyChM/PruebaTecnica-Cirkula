@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49D8F788-188F-4FB1-AF95-618FE68AF383}|Cirkula.WebApi\\Cirkula.WebApi.csproj|e:\\gecm\\prueba\\cirkula\\cirkula-bak\\cirkula.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D8F788-188F-4FB1-AF95-618FE68AF383}|Cirkula.WebApi\\Cirkula.WebApi.csproj|solutionrelative:cirkula.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D8F788-188F-4FB1-AF95-618FE68AF383}|Cirkula.WebApi\\Cirkula.WebApi.csproj|e:\\gecm\\prueba\\cirkula\\cirkula-bak\\cirkula.webapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D8F788-188F-4FB1-AF95-618FE68AF383}|Cirkula.WebApi\\Cirkula.WebApi.csproj|solutionrelative:cirkula.webapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D8F788-188F-4FB1-AF95-618FE68AF383}|Cirkula.WebApi\\Cirkula.WebApi.csproj|e:\\gecm\\prueba\\cirkula\\cirkula-bak\\cirkula.webapi\\exceptions\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D8F788-188F-4FB1-AF95-618FE68AF383}|Cirkula.WebApi\\Cirkula.WebApi.csproj|solutionrelative:cirkula.webapi\\exceptions\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D8F788-188F-4FB1-AF95-618FE68AF383}|Cirkula.WebApi\\Cirkula.WebApi.csproj|e:\\gecm\\prueba\\cirkula\\cirkula-bak\\cirkula.webapi\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D8F788-188F-4FB1-AF95-618FE68AF383}|Cirkula.WebApi\\Cirkula.WebApi.csproj|solutionrelative:cirkula.webapi\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591FBB18-64E2-4E83-813D-7D3446B3BCB1}|Cirkula.BusinessImpl\\Cirkula.BusinessImpl.csproj|e:\\gecm\\prueba\\cirkula\\cirkula-bak\\cirkula.businessimpl\\storebusinessimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591FBB18-64E2-4E83-813D-7D3446B3BCB1}|Cirkula.BusinessImpl\\Cirkula.BusinessImpl.csproj|solutionrelative:cirkula.businessimpl\\storebusinessimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 981,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Cirkula.WebApi\\Program.cs",
+              "ToolTip": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\Program.cs",
+              "RelativeToolTip": "Cirkula.WebApi\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T02:30:15.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\Exceptions\\CustomException.cs",
+              "RelativeDocumentMoniker": "Cirkula.WebApi\\Exceptions\\CustomException.cs",
+              "ToolTip": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\Exceptions\\CustomException.cs",
+              "RelativeToolTip": "Cirkula.WebApi\\Exceptions\\CustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T02:27:43.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Cirkula.WebApi\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Cirkula.WebApi\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T02:23:48.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StoreBusinessImpl.cs",
+              "DocumentMoniker": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.BusinessImpl\\StoreBusinessImpl.cs",
+              "RelativeDocumentMoniker": "Cirkula.BusinessImpl\\StoreBusinessImpl.cs",
+              "ToolTip": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.BusinessImpl\\StoreBusinessImpl.cs",
+              "RelativeToolTip": "Cirkula.BusinessImpl\\StoreBusinessImpl.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T00:40:17.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoresController.cs",
+              "DocumentMoniker": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\Controllers\\StoresController.cs",
+              "RelativeDocumentMoniker": "Cirkula.WebApi\\Controllers\\StoresController.cs",
+              "ToolTip": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\Controllers\\StoresController.cs",
+              "RelativeToolTip": "Cirkula.WebApi\\Controllers\\StoresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:15:52.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\bin\Debug\net8.0\Cirkula.Business.deps.json
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\bin\Debug\net8.0\Cirkula.Business.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\bin\Debug\net8.0\Cirkula.Business.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\obj\Debug\net8.0\Cirkula.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\obj\Debug\net8.0\Cirkula.Business.AssemblyInfoInputs.cache
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\obj\Debug\net8.0\Cirkula.Business.AssemblyInfo.cs
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\obj\Debug\net8.0\Cirkula.Business.csproj.CoreCompileInputs.cache
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\obj\Debug\net8.0\Cirkula.Business.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\obj\Debug\net8.0\refint\Cirkula.Business.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\obj\Debug\net8.0\Cirkula.Business.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\obj\Debug\net8.0\ref\Cirkula.Business.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\bin\Debug\net8.0\Circuka.RequestResponse.Models.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\bin\Debug\net8.0\Circuka.RequestResponse.Models.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\obj\Debug\net8.0\Cirkula.Business.csproj.AssemblyReference.cache
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\obj\Debug\net8.0\Cirkula..AE62CCC5.Up2Date

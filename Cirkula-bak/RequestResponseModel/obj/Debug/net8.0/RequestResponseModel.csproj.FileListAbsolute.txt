@@ -1,0 +1,11 @@
+E:\GECM\Prueba\Cirkula\Cirkula-bak\RequestResponseModel\bin\Debug\net8.0\RequestResponseModel.deps.json
+E:\GECM\Prueba\Cirkula\Cirkula-bak\RequestResponseModel\bin\Debug\net8.0\RequestResponseModel.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\RequestResponseModel\bin\Debug\net8.0\RequestResponseModel.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\RequestResponseModel\obj\Debug\net8.0\RequestResponseModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\GECM\Prueba\Cirkula\Cirkula-bak\RequestResponseModel\obj\Debug\net8.0\RequestResponseModel.AssemblyInfoInputs.cache
+E:\GECM\Prueba\Cirkula\Cirkula-bak\RequestResponseModel\obj\Debug\net8.0\RequestResponseModel.AssemblyInfo.cs
+E:\GECM\Prueba\Cirkula\Cirkula-bak\RequestResponseModel\obj\Debug\net8.0\RequestResponseModel.csproj.CoreCompileInputs.cache
+E:\GECM\Prueba\Cirkula\Cirkula-bak\RequestResponseModel\obj\Debug\net8.0\RequestResponseModel.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\RequestResponseModel\obj\Debug\net8.0\refint\RequestResponseModel.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\RequestResponseModel\obj\Debug\net8.0\RequestResponseModel.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\RequestResponseModel\obj\Debug\net8.0\ref\RequestResponseModel.dll

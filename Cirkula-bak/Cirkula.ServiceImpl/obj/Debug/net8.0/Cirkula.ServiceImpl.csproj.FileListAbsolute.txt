@@ -1,0 +1,11 @@
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\bin\Debug\net8.0\Cirkula.ServiceImpl.deps.json
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\bin\Debug\net8.0\Cirkula.ServiceImpl.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\bin\Debug\net8.0\Cirkula.ServiceImpl.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\obj\Debug\net8.0\Cirkula.ServiceImpl.GeneratedMSBuildEditorConfig.editorconfig
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\obj\Debug\net8.0\Cirkula.ServiceImpl.AssemblyInfoInputs.cache
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\obj\Debug\net8.0\Cirkula.ServiceImpl.AssemblyInfo.cs
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\obj\Debug\net8.0\Cirkula.ServiceImpl.csproj.CoreCompileInputs.cache
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\obj\Debug\net8.0\Cirkula.ServiceImpl.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\obj\Debug\net8.0\refint\Cirkula.ServiceImpl.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\obj\Debug\net8.0\Cirkula.ServiceImpl.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\obj\Debug\net8.0\ref\Cirkula.ServiceImpl.dll

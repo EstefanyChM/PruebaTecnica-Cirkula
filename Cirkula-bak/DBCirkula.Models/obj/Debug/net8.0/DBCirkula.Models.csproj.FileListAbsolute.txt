@@ -1,0 +1,14 @@
+E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\bin\Debug\net8.0\DBCirkula.Models.deps.json
+E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\bin\Debug\net8.0\DBCirkula.Models.runtimeconfig.json
+E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\bin\Debug\net8.0\DBCirkula.Models.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\bin\Debug\net8.0\DBCirkula.Models.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\obj\Debug\net8.0\DBCirkula.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\obj\Debug\net8.0\DBCirkula.Models.AssemblyInfoInputs.cache
+E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\obj\Debug\net8.0\DBCirkula.Models.AssemblyInfo.cs
+E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\obj\Debug\net8.0\DBCirkula.Models.csproj.CoreCompileInputs.cache
+E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\obj\Debug\net8.0\DBCirkula.Models.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\obj\Debug\net8.0\refint\DBCirkula.Models.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\obj\Debug\net8.0\DBCirkula.Models.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\obj\Debug\net8.0\DBCirkula.Models.genruntimeconfig.cache
+E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\obj\Debug\net8.0\ref\DBCirkula.Models.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\obj\Debug\net8.0\DBCirkula.Models.csproj.AssemblyReference.cache

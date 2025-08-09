@@ -1,0 +1,757 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\Cirkula.WebApi.csproj": {}
+  },
+  "projects": {
+    "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Circuka.RequestResponse.Models\\Circuka.RequestResponse.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Circuka.RequestResponse.Models\\Circuka.RequestResponse.Models.csproj",
+        "projectName": "Circuka.RequestResponse.Models",
+        "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Circuka.RequestResponse.Models\\Circuka.RequestResponse.Models.csproj",
+        "packagesPath": "C:\\Users\\gecha\\.nuget\\packages\\",
+        "outputPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Circuka.RequestResponse.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gecha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.BusinessImpl\\Cirkula.BusinessImpl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.BusinessImpl\\Cirkula.BusinessImpl.csproj",
+        "projectName": "Cirkula.BusinessImpl",
+        "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.BusinessImpl\\Cirkula.BusinessImpl.csproj",
+        "packagesPath": "C:\\Users\\gecha\\.nuget\\packages\\",
+        "outputPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.BusinessImpl\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gecha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Business\\Cirkula.Business.csproj": {
+                "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Business\\Cirkula.Business.csproj"
+              },
+              "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Repository\\Cirkula.Repository.csproj": {
+                "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Repository\\Cirkula.Repository.csproj"
+              },
+              "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\DBCirkula.Models\\DBCirkula.Models.csproj": {
+                "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\DBCirkula.Models\\DBCirkula.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Business\\Cirkula.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Business\\Cirkula.Business.csproj",
+        "projectName": "Cirkula.Business",
+        "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Business\\Cirkula.Business.csproj",
+        "packagesPath": "C:\\Users\\gecha\\.nuget\\packages\\",
+        "outputPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gecha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Circuka.RequestResponse.Models\\Circuka.RequestResponse.Models.csproj": {
+                "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Circuka.RequestResponse.Models\\Circuka.RequestResponse.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Mapper\\Cirkula.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Mapper\\Cirkula.Mapper.csproj",
+        "projectName": "Cirkula.Mapper",
+        "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Mapper\\Cirkula.Mapper.csproj",
+        "packagesPath": "C:\\Users\\gecha\\.nuget\\packages\\",
+        "outputPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gecha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Circuka.RequestResponse.Models\\Circuka.RequestResponse.Models.csproj": {
+                "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Circuka.RequestResponse.Models\\Circuka.RequestResponse.Models.csproj"
+              },
+              "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\DBCirkula.Models\\DBCirkula.Models.csproj": {
+                "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\DBCirkula.Models\\DBCirkula.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.RepositoryImpl\\Cirkula.RepositoryImpl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.RepositoryImpl\\Cirkula.RepositoryImpl.csproj",
+        "projectName": "Cirkula.RepositoryImpl",
+        "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.RepositoryImpl\\Cirkula.RepositoryImpl.csproj",
+        "packagesPath": "C:\\Users\\gecha\\.nuget\\packages\\",
+        "outputPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.RepositoryImpl\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gecha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Repository\\Cirkula.Repository.csproj": {
+                "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Repository\\Cirkula.Repository.csproj"
+              },
+              "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\DBCirkula.Models\\DBCirkula.Models.csproj": {
+                "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\DBCirkula.Models\\DBCirkula.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Repository\\Cirkula.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Repository\\Cirkula.Repository.csproj",
+        "projectName": "Cirkula.Repository",
+        "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Repository\\Cirkula.Repository.csproj",
+        "packagesPath": "C:\\Users\\gecha\\.nuget\\packages\\",
+        "outputPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gecha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\DBCirkula.Models\\DBCirkula.Models.csproj": {
+                "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\DBCirkula.Models\\DBCirkula.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.ServiceImpl\\Cirkula.ServiceImpl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.ServiceImpl\\Cirkula.ServiceImpl.csproj",
+        "projectName": "Cirkula.ServiceImpl",
+        "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.ServiceImpl\\Cirkula.ServiceImpl.csproj",
+        "packagesPath": "C:\\Users\\gecha\\.nuget\\packages\\",
+        "outputPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.ServiceImpl\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gecha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Services\\Cirkula.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Services\\Cirkula.Services.csproj",
+        "projectName": "Cirkula.Services",
+        "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Services\\Cirkula.Services.csproj",
+        "packagesPath": "C:\\Users\\gecha\\.nuget\\packages\\",
+        "outputPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gecha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\Cirkula.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\Cirkula.WebApi.csproj",
+        "projectName": "Cirkula.WebApi",
+        "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\Cirkula.WebApi.csproj",
+        "packagesPath": "C:\\Users\\gecha\\.nuget\\packages\\",
+        "outputPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gecha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Circuka.RequestResponse.Models\\Circuka.RequestResponse.Models.csproj": {
+                "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Circuka.RequestResponse.Models\\Circuka.RequestResponse.Models.csproj"
+              },
+              "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.BusinessImpl\\Cirkula.BusinessImpl.csproj": {
+                "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.BusinessImpl\\Cirkula.BusinessImpl.csproj"
+              },
+              "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Business\\Cirkula.Business.csproj": {
+                "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Business\\Cirkula.Business.csproj"
+              },
+              "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Mapper\\Cirkula.Mapper.csproj": {
+                "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Mapper\\Cirkula.Mapper.csproj"
+              },
+              "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.RepositoryImpl\\Cirkula.RepositoryImpl.csproj": {
+                "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.RepositoryImpl\\Cirkula.RepositoryImpl.csproj"
+              },
+              "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Repository\\Cirkula.Repository.csproj": {
+                "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Repository\\Cirkula.Repository.csproj"
+              },
+              "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.ServiceImpl\\Cirkula.ServiceImpl.csproj": {
+                "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.ServiceImpl\\Cirkula.ServiceImpl.csproj"
+              },
+              "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Services\\Cirkula.Services.csproj": {
+                "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.Services\\Cirkula.Services.csproj"
+              },
+              "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\DBCirkula.Models\\DBCirkula.Models.csproj": {
+                "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\DBCirkula.Models\\DBCirkula.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.19, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\DBCirkula.Models\\DBCirkula.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\DBCirkula.Models\\DBCirkula.Models.csproj",
+        "projectName": "DBCirkula.Models",
+        "projectPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\DBCirkula.Models\\DBCirkula.Models.csproj",
+        "packagesPath": "C:\\Users\\gecha\\.nuget\\packages\\",
+        "outputPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\DBCirkula.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gecha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

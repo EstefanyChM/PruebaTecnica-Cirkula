@@ -1,0 +1,17 @@
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\bin\Debug\net8.0\Cirkula.Mapper.deps.json
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\bin\Debug\net8.0\Cirkula.Mapper.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\bin\Debug\net8.0\Cirkula.Mapper.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\bin\Debug\net8.0\Circuka.RequestResponse.Models.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\bin\Debug\net8.0\DBCirkula.Models.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\bin\Debug\net8.0\Circuka.RequestResponse.Models.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\bin\Debug\net8.0\DBCirkula.Models.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\obj\Debug\net8.0\Cirkula.Mapper.csproj.AssemblyReference.cache
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\obj\Debug\net8.0\Cirkula.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\obj\Debug\net8.0\Cirkula.Mapper.AssemblyInfoInputs.cache
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\obj\Debug\net8.0\Cirkula.Mapper.AssemblyInfo.cs
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\obj\Debug\net8.0\Cirkula.Mapper.csproj.CoreCompileInputs.cache
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\obj\Debug\net8.0\Cirkula..7C044945.Up2Date
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\obj\Debug\net8.0\Cirkula.Mapper.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\obj\Debug\net8.0\refint\Cirkula.Mapper.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\obj\Debug\net8.0\Cirkula.Mapper.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\obj\Debug\net8.0\ref\Cirkula.Mapper.dll

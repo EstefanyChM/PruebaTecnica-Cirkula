@@ -1,0 +1,11 @@
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Circuka.RequestResponse.Models\bin\Debug\net8.0\Circuka.RequestResponse.Models.deps.json
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Circuka.RequestResponse.Models\bin\Debug\net8.0\Circuka.RequestResponse.Models.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Circuka.RequestResponse.Models\bin\Debug\net8.0\Circuka.RequestResponse.Models.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Circuka.RequestResponse.Models\obj\Debug\net8.0\Circuka.RequestResponse.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Circuka.RequestResponse.Models\obj\Debug\net8.0\Circuka.RequestResponse.Models.AssemblyInfoInputs.cache
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Circuka.RequestResponse.Models\obj\Debug\net8.0\Circuka.RequestResponse.Models.AssemblyInfo.cs
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Circuka.RequestResponse.Models\obj\Debug\net8.0\Circuka.RequestResponse.Models.csproj.CoreCompileInputs.cache
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Circuka.RequestResponse.Models\obj\Debug\net8.0\Circuka.RequestResponse.Models.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Circuka.RequestResponse.Models\obj\Debug\net8.0\refint\Circuka.RequestResponse.Models.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Circuka.RequestResponse.Models\obj\Debug\net8.0\Circuka.RequestResponse.Models.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Circuka.RequestResponse.Models\obj\Debug\net8.0\ref\Circuka.RequestResponse.Models.dll

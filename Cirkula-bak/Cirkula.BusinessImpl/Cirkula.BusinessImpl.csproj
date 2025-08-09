@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="15.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cirkula.Business\Cirkula.Business.csproj" />
+    <ProjectReference Include="..\Cirkula.Repository\Cirkula.Repository.csproj" />
+    <ProjectReference Include="..\DBCirkula.Models\DBCirkula.Models.csproj" />
+  </ItemGroup>
+
+</Project>
