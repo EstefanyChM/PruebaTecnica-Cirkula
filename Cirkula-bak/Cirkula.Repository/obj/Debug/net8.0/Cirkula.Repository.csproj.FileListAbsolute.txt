@@ -13,3 +13,4 @@ E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Repository\bin\Debug\net8.0\DBCirkula
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Repository\bin\Debug\net8.0\DBCirkula.Models.pdb
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Repository\obj\Debug\net8.0\Cirkula.Repository.csproj.AssemblyReference.cache
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Repository\obj\Debug\net8.0\Cirkula..4DE350B4.Up2Date
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Repository\obj\Debug\net8.0\Cirkula.Repository.sourcelink.json

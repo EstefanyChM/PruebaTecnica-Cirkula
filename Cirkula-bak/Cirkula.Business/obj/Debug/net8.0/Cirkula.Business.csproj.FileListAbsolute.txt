@@ -13,3 +13,6 @@ E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\bin\Debug\net8.0\Circuka.Req
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\bin\Debug\net8.0\Circuka.RequestResponse.Models.pdb
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\obj\Debug\net8.0\Cirkula.Business.csproj.AssemblyReference.cache
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\obj\Debug\net8.0\Cirkula..AE62CCC5.Up2Date
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\obj\Debug\net8.0\Cirkula.Business.sourcelink.json
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\bin\Debug\net8.0\Cirkula.DTO.Models.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Business\bin\Debug\net8.0\Cirkula.DTO.Models.pdb

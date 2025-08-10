@@ -48,19 +48,54 @@
         ],
         "requestBody": {
           "content": {
-            "application/json": {
+            "multipart/form-data": {
               "schema": {
-                "$ref": "#/components/schemas/StoreRequest"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/StoreRequest"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/StoreRequest"
+                "type": "object",
+                "properties": {
+                  "Name": {
+                    "type": "string"
+                  },
+                  "BannerImg": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "Latitude": {
+                    "type": "number",
+                    "format": "double"
+                  },
+                  "Longitude": {
+                    "type": "number",
+                    "format": "double"
+                  },
+                  "OpenTime": {
+                    "type": "string",
+                    "format": "time"
+                  },
+                  "CloseTime": {
+                    "type": "string",
+                    "format": "time"
+                  }
+                }
+              },
+              "encoding": {
+                "Name": {
+                  "style": "form"
+                },
+                "BannerImg": {
+                  "style": "form"
+                },
+                "Latitude": {
+                  "style": "form"
+                },
+                "Longitude": {
+                  "style": "form"
+                },
+                "OpenTime": {
+                  "style": "form"
+                },
+                "CloseTime": {
+                  "style": "form"
+                }
               }
             }
           }
@@ -349,11 +384,18 @@
           },
           "openTime": {
             "type": "string",
-            "format": "time"
+            "nullable": true
           },
           "closeTime": {
             "type": "string",
-            "format": "time"
+            "nullable": true
+          },
+          "distanceInKm": {
+            "type": "number",
+            "format": "float"
+          },
+          "isOpen": {
+            "type": "boolean"
           }
         },
         "additionalProperties": false

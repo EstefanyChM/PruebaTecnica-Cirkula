@@ -18,6 +18,7 @@
     <ProjectReference Include="..\Circuka.RequestResponse.Models\Circuka.RequestResponse.Models.csproj" />
     <ProjectReference Include="..\Cirkula.BusinessImpl\Cirkula.BusinessImpl.csproj" />
     <ProjectReference Include="..\Cirkula.Business\Cirkula.Business.csproj" />
+    <ProjectReference Include="..\Cirkula.DTO.Models\Cirkula.DTO.Models.csproj" />
     <ProjectReference Include="..\Cirkula.Mapper\Cirkula.Mapper.csproj" />
     <ProjectReference Include="..\Cirkula.RepositoryImpl\Cirkula.RepositoryImpl.csproj" />
     <ProjectReference Include="..\Cirkula.Repository\Cirkula.Repository.csproj" />

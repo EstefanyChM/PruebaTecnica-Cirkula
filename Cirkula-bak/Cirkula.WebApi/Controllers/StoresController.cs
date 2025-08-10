@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Cirkula.Business;
 using DBCirkula.Models;
+using Cirkula.DTO.Models;
 
 namespace Cirkula.WebApi.Controllers
 {
@@ -10,6 +11,7 @@ namespace Cirkula.WebApi.Controllers
 	[ApiController]
 	public class StoresController : ControllerBase
 	{
+		
 		private readonly StoreBusiness _storeBusiness;
 
 		public StoresController( StoreBusiness storeBusiness )
@@ -29,7 +31,7 @@ namespace Cirkula.WebApi.Controllers
 		public async Task<ActionResult<IEnumerable<StoreResponse>>> GetAllWithDetails([FromQuery]double latitude, double longitude)
 		{
 			IEnumerable<StoreResponse> response = await _storeBusiness.GetAllWithDetails(latitude, longitude);
-			return Ok(response);
+			return Ok(new StoresWrapperResponse { Stores = response });
 		}
 
 		[HttpGet]
@@ -41,14 +43,14 @@ namespace Cirkula.WebApi.Controllers
 		}
 
 		[HttpPost]
-		public async Task<ActionResult<StoreResponse>> CreateAsync (StoreRequest request)
+		public async Task<ActionResult<StoreResponse>> CreateAsync ([FromForm] CreateStoreDto createStoreDto)
 		{
-			StoreResponse response = await _storeBusiness.CreateAsync(request);
+			StoreResponse response = await _storeBusiness.CreateAsync(createStoreDto);
 			return CreatedAtRoute("GetStore", new {id = response.Id}, response);
 		}
 
 		[HttpPut]
-		[Route("{id:int}")]
+		[Route("{id:int}")]       
 		public async Task<ActionResult> UpdateAsync (StoreRequest request)
 		{
 			await _storeBusiness.UpdateAsync(request);

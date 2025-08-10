@@ -16,7 +16,6 @@ E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\obj\Debug\net8.0\Cirkula.WebAp
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\obj\Debug\net8.0\Cirkula.WebApi.AssemblyInfoInputs.cache
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\obj\Debug\net8.0\Cirkula.WebApi.AssemblyInfo.cs
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\obj\Debug\net8.0\Cirkula.WebApi.csproj.CoreCompileInputs.cache
-E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\obj\Debug\net8.0\Cirkula.WebApi.MvcApplicationPartsAssemblyInfo.cs
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\obj\Debug\net8.0\Cirkula.WebApi.MvcApplicationPartsAssemblyInfo.cache
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
@@ -163,3 +162,13 @@ E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\Cirkula.Repos
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\Cirkula.Repository.pdb
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\Cirkula.ServiceImpl.pdb
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\Cirkula.Services.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\obj\Debug\net8.0\Cirkula.WebApi.sourcelink.json
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\Cirkula.DTO.Models.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\Cirkula.DTO.Models.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\Firebase.Auth.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\Firebase.Storage.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\UtilConstants.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\UtilConstants.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\obj\Debug\net8.0\Cirkula.WebApi.MvcApplicationPartsAssemblyInfo.cs

@@ -12,3 +12,4 @@ E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\obj\Debug\net8.0\DBCirkula.M
 E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\obj\Debug\net8.0\DBCirkula.Models.genruntimeconfig.cache
 E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\obj\Debug\net8.0\ref\DBCirkula.Models.dll
 E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\obj\Debug\net8.0\DBCirkula.Models.csproj.AssemblyReference.cache
+E:\GECM\Prueba\Cirkula\Cirkula-bak\DBCirkula.Models\obj\Debug\net8.0\DBCirkula.Models.sourcelink.json

@@ -1,12 +1,9 @@
 ﻿using AutoMapper;
 using Circuka.RequestResponse.Models;
+using Cirkula.DTO.Models;
 using DBCirkula.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime;
-using System.Text;
-using System.Threading.Tasks;
+using System.Globalization;
+using UtilConstants;
 
 namespace Cirkula.Mapper
 {
@@ -14,8 +11,16 @@ namespace Cirkula.Mapper
 	{
 		public MappingsProfile ()
 		{
-			CreateMap<Store, StoreRequest>().ReverseMap();
-			CreateMap<Store, StoreResponse>().ReverseMap();
-		}
+			CreateMap<StoreRequest, Store>().ReverseMap();
+			//CreateMap<Store, StoreResponse>().ReverseMap();
+			CreateMap<Store, CreateStoreDto>().ReverseMap();
+
+
+			CreateMap<Store, StoreResponse>()
+                .ForMember(dest => dest.OpenTime, opt =>
+                    opt.MapFrom(src => src.OpenTime.ToString("hh:mm tt", CultureInfo.InvariantCulture)))
+                .ForMember(dest => dest.CloseTime, opt =>
+                    opt.MapFrom(src => src.CloseTime.ToString("hh:mm tt", CultureInfo.InvariantCulture)));
+        }
 	}
 }

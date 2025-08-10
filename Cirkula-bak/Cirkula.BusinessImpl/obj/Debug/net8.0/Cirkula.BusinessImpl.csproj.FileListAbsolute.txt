@@ -19,3 +19,8 @@ E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.BusinessImpl\bin\Debug\net8.0\Circuka
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.BusinessImpl\bin\Debug\net8.0\DBCirkula.Models.pdb
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.BusinessImpl\obj\Debug\net8.0\Cirkula.BusinessImpl.csproj.AssemblyReference.cache
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.BusinessImpl\obj\Debug\net8.0\Cirkula..B7089003.Up2Date
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.BusinessImpl\obj\Debug\net8.0\Cirkula.BusinessImpl.sourcelink.json
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.BusinessImpl\bin\Debug\net8.0\Cirkula.DTO.Models.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.BusinessImpl\bin\Debug\net8.0\Cirkula.Services.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.BusinessImpl\bin\Debug\net8.0\Cirkula.DTO.Models.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.BusinessImpl\bin\Debug\net8.0\Cirkula.Services.pdb

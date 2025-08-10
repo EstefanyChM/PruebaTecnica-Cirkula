@@ -28,9 +28,34 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "request",
-        "Type": "Circuka.RequestResponse.Models.StoreRequest",
-        "IsRequired": true
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "BannerImg",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "Latitude",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "Longitude",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "OpenTime",
+        "Type": "System.TimeOnly",
+        "IsRequired": false
+      },
+      {
+        "Name": "CloseTime",
+        "Type": "System.TimeOnly",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [

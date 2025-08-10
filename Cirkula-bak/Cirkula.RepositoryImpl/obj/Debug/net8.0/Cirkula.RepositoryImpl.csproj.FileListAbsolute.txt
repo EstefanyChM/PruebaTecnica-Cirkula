@@ -15,3 +15,4 @@ E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.RepositoryImpl\bin\Debug\net8.0\Cirku
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.RepositoryImpl\bin\Debug\net8.0\DBCirkula.Models.pdb
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.RepositoryImpl\obj\Debug\net8.0\Cirkula.RepositoryImpl.csproj.AssemblyReference.cache
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.RepositoryImpl\obj\Debug\net8.0\Cirkula..A4E56F22.Up2Date
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.RepositoryImpl\obj\Debug\net8.0\Cirkula.RepositoryImpl.sourcelink.json

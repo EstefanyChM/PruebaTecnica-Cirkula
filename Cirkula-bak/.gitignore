@@ -1,0 +1,55 @@
+## Directorios y archivos generados por Visual Studio y .NET
+
+# Carpeta de salida de compilación
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Paquetes NuGet
+packages/
+
+# Archivos de usuario de Visual Studio
+*.user
+*.suo
+
+# Cache de Visual Studio
+.vs/
+
+# Paquetes de dependencia de NuGet (restaurados localmente)
+/packages
+
+# Archivos de configuración de lanzamiento y depuración
+[Cc]s[Pp]roj.user
+*.resharper
+
+# Archivos de configuración de web.config transformados
+web.config.debug
+web.config.release
+
+# Archivos de configuración local de IIS
+web.config.user
+
+# Archivos de proyecto generados por Visual Studio
+*.vsp*
+*.log
+*.plg
+*.scc
+
+# Archivos de Visual Studio Code
+.vscode/
+
+## Archivos de bases de datos
+*.mdf
+*.ldf
+
+## Archivos de caché y logs
+*.cache
+*.log
+
+# Archivos de configuración de secretos
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+appsettings.json.user
+appsettings.json

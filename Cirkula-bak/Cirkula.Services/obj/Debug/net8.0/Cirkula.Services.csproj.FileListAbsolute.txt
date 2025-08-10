@@ -9,3 +9,4 @@ E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Services\obj\Debug\net8.0\Cirkula.Ser
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Services\obj\Debug\net8.0\refint\Cirkula.Services.dll
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Services\obj\Debug\net8.0\Cirkula.Services.pdb
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Services\obj\Debug\net8.0\ref\Cirkula.Services.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Services\obj\Debug\net8.0\Cirkula.Services.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cirkula.ServiceImpl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d805c8da9214acb64ba88b1493e21abddbf2543a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cirkula.ServiceImpl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cirkula.ServiceImpl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,9 @@ namespace Circuka.RequestResponse.Models
         public string? BannerUrl { get; set; }
         public decimal Latitude { get; set; }
         public decimal Longitude { get; set; }
-        public TimeOnly OpenTime { get; set; }
-        public TimeOnly CloseTime { get; set; }
+        public string OpenTime { get; set; }
+        public string CloseTime { get; set; }
+		public float DistanceInKm { get; set; }
+		public bool IsOpen { get; set; }
 	}
 }

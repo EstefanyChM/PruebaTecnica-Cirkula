@@ -9,3 +9,4 @@ E:\GECM\Prueba\Cirkula\Cirkula-bak\Circuka.RequestResponse.Models\obj\Debug\net8
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Circuka.RequestResponse.Models\obj\Debug\net8.0\refint\Circuka.RequestResponse.Models.dll
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Circuka.RequestResponse.Models\obj\Debug\net8.0\Circuka.RequestResponse.Models.pdb
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Circuka.RequestResponse.Models\obj\Debug\net8.0\ref\Circuka.RequestResponse.Models.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Circuka.RequestResponse.Models\obj\Debug\net8.0\Circuka.RequestResponse.Models.sourcelink.json

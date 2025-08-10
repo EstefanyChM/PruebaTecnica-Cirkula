@@ -15,5 +15,10 @@ namespace UtilConstants
         {
             return TimeZoneInfo.ConvertTimeFromUtc(DateTime.UtcNow, PeruTimeZone);
         }
+
+        public static string TimeSpanTo12HourFormat(TimeSpan time)
+		{
+			return DateTime.Today.Add(time).ToString("hh:mm tt");
+		}
     }
 }

@@ -9,3 +9,8 @@ E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\obj\Debug\net8.0\Cirkula.
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\obj\Debug\net8.0\refint\Cirkula.ServiceImpl.dll
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\obj\Debug\net8.0\Cirkula.ServiceImpl.pdb
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\obj\Debug\net8.0\ref\Cirkula.ServiceImpl.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\obj\Debug\net8.0\Cirkula.ServiceImpl.csproj.AssemblyReference.cache
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\obj\Debug\net8.0\Cirkula.ServiceImpl.sourcelink.json
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\bin\Debug\net8.0\Cirkula.Services.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\bin\Debug\net8.0\Cirkula.Services.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.ServiceImpl\obj\Debug\net8.0\Cirkula..F44D86D0.Up2Date

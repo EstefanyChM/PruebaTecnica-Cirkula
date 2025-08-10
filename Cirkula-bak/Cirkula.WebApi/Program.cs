@@ -3,6 +3,8 @@ using Cirkula.BusinessImpl;
 using Cirkula.Mapper;
 using Cirkula.Repository;
 using Cirkula.RepositoryImpl;
+using Cirkula.ServiceImpl;
+using Cirkula.Services;
 using Cirkula.WebApi.Middleware;
 using DBCirkula.Models;
 using Microsoft.EntityFrameworkCore;
@@ -26,11 +28,27 @@ builder.Services.AddScoped<StoreRepository, StoreRepositoryImpl>();
 builder.Services.AddScoped<UnitOfWork, UnitOfWorkImpl>();
 #endregion 
 
+builder.Services.AddTransient<FirebaseService, FirebaseServiceImpl>();
+
 //AUTOMAPPER
 builder.Services.AddAutoMapper(x => x.AddProfile(new MappingsProfile()));
 
-var app = builder.Build();
+string myPolicy = "policyApiCirkula";
+// CONFIGURACION DEL CORS
+builder.Services.AddCors(options =>
+{
+	options.AddPolicy("myPolicy", policy =>
+	{
+		policy
+		.WithOrigins(builder.Configuration["Config:OriginCors"]!)
+		//.AllowAnyOrigin()
+		.AllowAnyHeader()
+		.AllowAnyMethod();
+	});
 
+});
+
+var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -40,6 +58,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors("myPolicy");
 
 app.UseAuthorization();
 

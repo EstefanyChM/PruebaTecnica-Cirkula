@@ -15,3 +15,8 @@ E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\obj\Debug\net8.0\Cirkula.Mappe
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\obj\Debug\net8.0\refint\Cirkula.Mapper.dll
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\obj\Debug\net8.0\Cirkula.Mapper.pdb
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\obj\Debug\net8.0\ref\Cirkula.Mapper.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\obj\Debug\net8.0\Cirkula.Mapper.sourcelink.json
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\bin\Debug\net8.0\Cirkula.DTO.Models.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\bin\Debug\net8.0\Cirkula.DTO.Models.pdb
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\bin\Debug\net8.0\UtilConstants.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.Mapper\bin\Debug\net8.0\UtilConstants.pdb

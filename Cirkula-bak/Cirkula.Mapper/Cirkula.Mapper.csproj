@@ -12,7 +12,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Circuka.RequestResponse.Models\Circuka.RequestResponse.Models.csproj" />
+    <ProjectReference Include="..\Cirkula.DTO.Models\Cirkula.DTO.Models.csproj" />
     <ProjectReference Include="..\DBCirkula.Models\DBCirkula.Models.csproj" />
+    <ProjectReference Include="..\UtilConstants\UtilConstants.csproj" />
   </ItemGroup>
 
 </Project>

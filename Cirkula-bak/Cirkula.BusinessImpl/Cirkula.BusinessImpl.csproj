@@ -12,7 +12,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Cirkula.Business\Cirkula.Business.csproj" />
+    <ProjectReference Include="..\Cirkula.DTO.Models\Cirkula.DTO.Models.csproj" />
     <ProjectReference Include="..\Cirkula.Repository\Cirkula.Repository.csproj" />
+    <ProjectReference Include="..\Cirkula.Services\Cirkula.Services.csproj" />
     <ProjectReference Include="..\DBCirkula.Models\DBCirkula.Models.csproj" />
   </ItemGroup>
 
