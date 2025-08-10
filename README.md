@@ -13,4 +13,6 @@ Este repositorio contiene **tanto el frontend como el backend** del ecosistema C
    API REST desarrollada con **.NET 8** que provee la lógica de negocio, acceso a datos y validaciones.
 
 
+<img width="1919" height="1026" alt="Image" src="https://github.com/user-attachments/assets/1328f3b5-2900-41f0-9c52-0db5142630f0" />
+
 
