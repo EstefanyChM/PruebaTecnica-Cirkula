@@ -172,3 +172,7 @@ E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\Newtonsoft.Js
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\UtilConstants.dll
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\UtilConstants.pdb
 E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\obj\Debug\net8.0\Cirkula.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\FluentValidation.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\Circuka.Validator.Models.dll
+E:\GECM\Prueba\Cirkula\Cirkula-bak\Cirkula.WebApi\bin\Debug\net8.0\Circuka.Validator.Models.pdb

@@ -1,10 +1,7 @@
+import { Ionicons } from '@expo/vector-icons';
 import React from 'react';
 import { Image, StyleSheet, Text, View } from 'react-native';
 import { StoreResponse } from '../features/shops/shops.types';
-
-
-const LocationIcon = () => <Text style={styles.icon}>📍</Text>;
-const ClockIcon = () => <Text style={styles.icon}>🕒</Text>;
 
 export default function ShopCard({ shop }: { shop: StoreResponse }) {
   return (
@@ -18,12 +15,16 @@ export default function ShopCard({ shop }: { shop: StoreResponse }) {
         <Text style={styles.name}>{shop.name}</Text>
         <View style={styles.metaContainer}>
           <View style={styles.metaRow}>
-            <LocationIcon />
-            <Text style={styles.meta}>{shop.distanceInKm ? shop.distanceInKm.toFixed(1) + 'km' : ''}</Text>
+            <Ionicons name="location-outline" size={14} color="#666" />
+            <Text style={styles.meta}>
+              {shop.distanceInKm ? shop.distanceInKm.toFixed(1) + 'km' : ''}
+            </Text>
           </View>
           <View style={styles.metaRow}>
-            <ClockIcon />
-            <Text style={styles.meta}>{shop.openTime} / {shop.closeTime}</Text>
+            <Ionicons name="time-outline" size={14} color="#666" />
+            <Text style={styles.meta}>
+              {shop.openTime} / {shop.closeTime}
+            </Text>
           </View>
         </View>
       </View>
@@ -51,7 +52,7 @@ const styles = StyleSheet.create({
     borderTopRightRadius: 8,
   },
   placeholder: {
-    backgroundColor: '#e0e0e0', 
+    backgroundColor: '#e0e0e0',
   },
   info: {
     padding: 12,
@@ -75,9 +76,5 @@ const styles = StyleSheet.create({
     color: '#666',
     fontSize: 12,
     marginLeft: 4,
-  },
-  icon: {
-    fontSize: 12,
-    marginRight: 2,
   },
 });

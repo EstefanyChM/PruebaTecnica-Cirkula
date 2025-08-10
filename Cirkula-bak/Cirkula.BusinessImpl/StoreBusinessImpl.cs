@@ -81,10 +81,8 @@ namespace Cirkula.BusinessImpl
 		    {
 		        var response = _mapper.Map<StoreResponse>(store);
 		
-		        // Calcular distancia
 		        response.DistanceInKm = CalculateDistance(latitude, longitude, (double)store.Latitude,		(double)store.Longitude);
 		
-		        // Determinar si está abierta
 		        response.IsOpen = IsStoreOpen(now, store.OpenTime, store.CloseTime);
 		
 		        return response;

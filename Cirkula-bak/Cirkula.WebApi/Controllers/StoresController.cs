@@ -1,9 +1,10 @@
 ﻿using Circuka.RequestResponse.Models;
+using Cirkula.Business;
+using Cirkula.DTO.Models;
+using DBCirkula.Models;
+using FluentValidation;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Cirkula.Business;
-using DBCirkula.Models;
-using Cirkula.DTO.Models;
 
 namespace Cirkula.WebApi.Controllers
 {
@@ -43,11 +44,19 @@ namespace Cirkula.WebApi.Controllers
 		}
 
 		[HttpPost]
-		public async Task<ActionResult<StoreResponse>> CreateAsync ([FromForm] CreateStoreDto createStoreDto)
+		public async Task<ActionResult<StoreResponse>> CreateAsync(
+		    [FromForm] CreateStoreDto createStoreDto,
+		    [FromServices] IValidator<CreateStoreDto> validator)
 		{
-			StoreResponse response = await _storeBusiness.CreateAsync(createStoreDto);
-			return CreatedAtRoute("GetStore", new {id = response.Id}, response);
+		    var result = await validator.ValidateAsync(createStoreDto);
+		
+		    if (!result.IsValid)
+		        return BadRequest(result.Errors);
+		
+		    StoreResponse response = await _storeBusiness.CreateAsync(createStoreDto);
+		    return CreatedAtRoute("GetStore", new { id = response.Id }, response);
 		}
+
 
 		[HttpPut]
 		[Route("{id:int}")]       

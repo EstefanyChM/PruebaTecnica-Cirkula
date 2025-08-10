@@ -44,6 +44,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilConstants", "UtilConsta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cirkula.DTO.Models", "Cirkula.DTO.Models\Cirkula.DTO.Models.csproj", "{AE904BC9-58C5-49E2-BAFE-D4BC2FCD6D40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circuka.Validator.Models", "Circuka.Validator.Models\Circuka.Validator.Models.csproj", "{F8760F59-F9C6-4E0F-ACD0-185DF866A335}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -98,6 +100,10 @@ Global
 		{AE904BC9-58C5-49E2-BAFE-D4BC2FCD6D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE904BC9-58C5-49E2-BAFE-D4BC2FCD6D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE904BC9-58C5-49E2-BAFE-D4BC2FCD6D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8760F59-F9C6-4E0F-ACD0-185DF866A335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8760F59-F9C6-4E0F-ACD0-185DF866A335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8760F59-F9C6-4E0F-ACD0-185DF866A335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8760F59-F9C6-4E0F-ACD0-185DF866A335}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -115,6 +121,7 @@ Global
 		{BF8F7658-E93B-4824-BD38-B046FA3093CD} = {BAD002FE-9B7B-4A30-958B-71EA1587EE0E}
 		{636DC073-AA47-4904-9B98-8CCAF38D090A} = {BAD002FE-9B7B-4A30-958B-71EA1587EE0E}
 		{AE904BC9-58C5-49E2-BAFE-D4BC2FCD6D40} = {088ACA43-6EB3-4C12-AA5F-502A08B51A84}
+		{F8760F59-F9C6-4E0F-ACD0-185DF866A335} = {088ACA43-6EB3-4C12-AA5F-502A08B51A84}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {705D4CE1-0E4D-4609-9D81-B31FD67FDD69}

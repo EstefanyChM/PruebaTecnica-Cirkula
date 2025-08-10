@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{49D8F788-188F-4FB1-AF95-618FE68AF383}|Cirkula.WebApi\\Cirkula.WebApi.csproj|e:\\gecm\\prueba\\cirkula\\cirkula-bak\\cirkula.webapi\\cirkula.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49D8F788-188F-4FB1-AF95-618FE68AF383}|Cirkula.WebApi\\Cirkula.WebApi.csproj|solutionrelative:cirkula.webapi\\cirkula.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{49D8F788-188F-4FB1-AF95-618FE68AF383}|Cirkula.WebApi\\Cirkula.WebApi.csproj|e:\\gecm\\prueba\\cirkula\\cirkula-bak\\cirkula.webapi\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49D8F788-188F-4FB1-AF95-618FE68AF383}|Cirkula.WebApi\\Cirkula.WebApi.csproj|solutionrelative:cirkula.webapi\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D8F788-188F-4FB1-AF95-618FE68AF383}|Cirkula.WebApi\\Cirkula.WebApi.csproj|e:\\gecm\\prueba\\cirkula\\cirkula-bak\\cirkula.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D8F788-188F-4FB1-AF95-618FE68AF383}|Cirkula.WebApi\\Cirkula.WebApi.csproj|solutionrelative:cirkula.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8760F59-F9C6-4E0F-ACD0-185DF866A335}|Circuka.Validator.Models\\Circuka.Validator.Models.csproj|e:\\gecm\\prueba\\cirkula\\cirkula-bak\\circuka.validator.models\\storedtovalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8760F59-F9C6-4E0F-ACD0-185DF866A335}|Circuka.Validator.Models\\Circuka.Validator.Models.csproj|solutionrelative:circuka.validator.models\\storedtovalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{591FBB18-64E2-4E83-813D-7D3446B3BCB1}|Cirkula.BusinessImpl\\Cirkula.BusinessImpl.csproj|e:\\gecm\\prueba\\cirkula\\cirkula-bak\\cirkula.businessimpl\\storebusinessimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,29 +30,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 981,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Cirkula.WebApi.csproj",
+              "DocumentMoniker": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\Cirkula.WebApi.csproj",
+              "RelativeDocumentMoniker": "Cirkula.WebApi\\Cirkula.WebApi.csproj",
+              "ToolTip": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\Cirkula.WebApi.csproj",
+              "RelativeToolTip": "Cirkula.WebApi\\Cirkula.WebApi.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-10T21:48:42.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Cirkula.WebApi\\Program.cs",
+              "ToolTip": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\Program.cs",
+              "RelativeToolTip": "Cirkula.WebApi\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T21:35:25.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreDtoValidators.cs",
+              "DocumentMoniker": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Circuka.Validator.Models\\StoreDtoValidators.cs",
+              "RelativeDocumentMoniker": "Circuka.Validator.Models\\StoreDtoValidators.cs",
+              "ToolTip": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Circuka.Validator.Models\\StoreDtoValidators.cs",
+              "RelativeToolTip": "Circuka.Validator.Models\\StoreDtoValidators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T21:17:44.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "StoreBusinessImpl.cs",
               "DocumentMoniker": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.BusinessImpl\\StoreBusinessImpl.cs",
               "RelativeDocumentMoniker": "Cirkula.BusinessImpl\\StoreBusinessImpl.cs",
               "ToolTip": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.BusinessImpl\\StoreBusinessImpl.cs",
               "RelativeToolTip": "Cirkula.BusinessImpl\\StoreBusinessImpl.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAowEAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAxwD4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-09T00:40:17.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StoresController.cs",
               "DocumentMoniker": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\Controllers\\StoresController.cs",
               "RelativeDocumentMoniker": "Cirkula.WebApi\\Controllers\\StoresController.cs",
               "ToolTip": "E:\\GECM\\Prueba\\Cirkula\\Cirkula-bak\\Cirkula.WebApi\\Controllers\\StoresController.cs",
               "RelativeToolTip": "Cirkula.WebApi\\Controllers\\StoresController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T23:15:52.824Z",
               "EditorCaption": ""

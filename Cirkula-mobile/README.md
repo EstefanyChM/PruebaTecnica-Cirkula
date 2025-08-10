@@ -1,50 +1,37 @@
-# Welcome to your Expo app 👋
+# Cirkula Mobile
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Aplicación móvil desarrollada con **Expo** y **React Native**.  
+La app está diseñada con **Expo Router** para la navegación, integra **React Query** para el manejo de datos y utiliza **Axios** para las peticiones HTTP.  
 
-## Get started
+---
 
-1. Install dependencies
+## 📦 Tecnologías principales
 
-   ```bash
-   npm install
-   ```
+- **Expo SDK 53**
+- **React Native 0.79.5**
+- **React 19**
+- **Expo Router** para navegación basada en filesystem
+- **@tanstack/react-query** para manejo de datos
+- **Axios** para consumo de APIs
+- **React Navigation** para navegación (stack y bottom tabs)
+- **Expo Location** para obtención de coordenadas
+- **React Native Reanimated** y **Gesture Handler** para animaciones e interacciones
+- **Expo Image** para manejo optimizado de imágenes
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🚀 Scripts disponibles
 
-In the output, you'll find options to open the app in a
+En el `package.json` se incluyen los siguientes scripts:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+| Script           | Descripción |
+|------------------|-------------|
+| `npm start`      | Inicia el servidor de desarrollo de Expo |
+| `npm run android`| Abre la app en un emulador Android o dispositivo físico |
+| `npm run web`    | Ejecuta la app en el navegador |
+| `npm run reset-project` | Limpia y reinicia la configuración del proyecto |
+| `npm run lint`   | Ejecuta ESLint para análisis estático de código |
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
 
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.

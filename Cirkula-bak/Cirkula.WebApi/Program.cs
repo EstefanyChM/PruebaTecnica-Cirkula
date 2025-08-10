@@ -8,6 +8,8 @@ using Cirkula.Services;
 using Cirkula.WebApi.Middleware;
 using DBCirkula.Models;
 using Microsoft.EntityFrameworkCore;
+using FluentValidation;
+using Circuka.Validator.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,7 +18,10 @@ builder.Services.AddDbContext<_DBCirkulaContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DBCirkula")));
 
 // Add services to the container.
+builder.Services.AddValidatorsFromAssemblyContaining<StoreDtoValidators>();
 builder.Services.AddControllers();
+
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
